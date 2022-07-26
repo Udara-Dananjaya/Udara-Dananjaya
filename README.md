@@ -4,7 +4,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=udara-dananjaya&label=Profile%20views&color=0e75b6&style=flat" alt="udara-dananjaya" /></p>
 
 <p align="left">
-    <a href="https://twitter.com/b_u_dananjaya" target="blank"><img src="https://img.shields.io/twitter/follow/b_u_dananjaya?logo=twitter&style=for-the-badge" alt="b_u_dananjaya" /></a>
+    <a href="https://twitter.com/D_a_n_a_n_jaya" target="blank"><img src="https://img.shields.io/twitter/follow/b_u_dananjaya?logo=twitter&style=for-the-badge" alt="D_a_n_a_n_jaya" /></a>
 </p>
 
 - 🌱 I’m currently learning **CodeIgniter ,Node.Js ,django ,React.** 
